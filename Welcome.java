@@ -4,6 +4,6 @@ public class Welcome {
         System.out.println("Todays' deal...");
         System.out.println("PayPal");
         System.out.println("Added a new feature by another person");
-        System.out.println("Added a new feature by another person again");
+        System.out.println("Added a new feature .... again");
     }
 }
