@@ -3,5 +3,6 @@ public class Welcome {
         System.out.println("Welcome to my app!");
         System.out.println("Todays' deal is extended to another 5 days");
         System.out.println("PayPal");
+        System.out.println("Added a new feature by another person");
     }
 }
